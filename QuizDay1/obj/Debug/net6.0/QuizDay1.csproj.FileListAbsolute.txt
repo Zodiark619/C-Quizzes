@@ -1,0 +1,15 @@
+C:\Users\User.LAPTOP-LJ8HT7OG\Videos\sisisisikokokokokokokokoko\reresusume\codeid\nnn\EFCore\QuizDay1\QuizDay1\bin\Debug\net6.0\QuizDay1.exe
+C:\Users\User.LAPTOP-LJ8HT7OG\Videos\sisisisikokokokokokokokoko\reresusume\codeid\nnn\EFCore\QuizDay1\QuizDay1\bin\Debug\net6.0\QuizDay1.deps.json
+C:\Users\User.LAPTOP-LJ8HT7OG\Videos\sisisisikokokokokokokokoko\reresusume\codeid\nnn\EFCore\QuizDay1\QuizDay1\bin\Debug\net6.0\QuizDay1.runtimeconfig.json
+C:\Users\User.LAPTOP-LJ8HT7OG\Videos\sisisisikokokokokokokokoko\reresusume\codeid\nnn\EFCore\QuizDay1\QuizDay1\bin\Debug\net6.0\QuizDay1.dll
+C:\Users\User.LAPTOP-LJ8HT7OG\Videos\sisisisikokokokokokokokoko\reresusume\codeid\nnn\EFCore\QuizDay1\QuizDay1\bin\Debug\net6.0\QuizDay1.pdb
+C:\Users\User.LAPTOP-LJ8HT7OG\Videos\sisisisikokokokokokokokoko\reresusume\codeid\nnn\EFCore\QuizDay1\QuizDay1\obj\Debug\net6.0\QuizDay1.csproj.AssemblyReference.cache
+C:\Users\User.LAPTOP-LJ8HT7OG\Videos\sisisisikokokokokokokokoko\reresusume\codeid\nnn\EFCore\QuizDay1\QuizDay1\obj\Debug\net6.0\QuizDay1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User.LAPTOP-LJ8HT7OG\Videos\sisisisikokokokokokokokoko\reresusume\codeid\nnn\EFCore\QuizDay1\QuizDay1\obj\Debug\net6.0\QuizDay1.AssemblyInfoInputs.cache
+C:\Users\User.LAPTOP-LJ8HT7OG\Videos\sisisisikokokokokokokokoko\reresusume\codeid\nnn\EFCore\QuizDay1\QuizDay1\obj\Debug\net6.0\QuizDay1.AssemblyInfo.cs
+C:\Users\User.LAPTOP-LJ8HT7OG\Videos\sisisisikokokokokokokokoko\reresusume\codeid\nnn\EFCore\QuizDay1\QuizDay1\obj\Debug\net6.0\QuizDay1.csproj.CoreCompileInputs.cache
+C:\Users\User.LAPTOP-LJ8HT7OG\Videos\sisisisikokokokokokokokoko\reresusume\codeid\nnn\EFCore\QuizDay1\QuizDay1\obj\Debug\net6.0\QuizDay1.dll
+C:\Users\User.LAPTOP-LJ8HT7OG\Videos\sisisisikokokokokokokokoko\reresusume\codeid\nnn\EFCore\QuizDay1\QuizDay1\obj\Debug\net6.0\refint\QuizDay1.dll
+C:\Users\User.LAPTOP-LJ8HT7OG\Videos\sisisisikokokokokokokokoko\reresusume\codeid\nnn\EFCore\QuizDay1\QuizDay1\obj\Debug\net6.0\QuizDay1.pdb
+C:\Users\User.LAPTOP-LJ8HT7OG\Videos\sisisisikokokokokokokokoko\reresusume\codeid\nnn\EFCore\QuizDay1\QuizDay1\obj\Debug\net6.0\QuizDay1.genruntimeconfig.cache
+C:\Users\User.LAPTOP-LJ8HT7OG\Videos\sisisisikokokokokokokokoko\reresusume\codeid\nnn\EFCore\QuizDay1\QuizDay1\obj\Debug\net6.0\ref\QuizDay1.dll
