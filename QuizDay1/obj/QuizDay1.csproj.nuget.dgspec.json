@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User.LAPTOP-LJ8HT7OG\\Videos\\sisisisikokokokokokokokoko\\reresusume\\codeid\\nnn\\EFCore\\QuizDay1\\QuizDay1\\QuizDay1.csproj": {}
+    "D:\\bca\\udemy_microservice\\Microcro\\Astra-Quiz\\QuizDay1\\QuizDay1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User.LAPTOP-LJ8HT7OG\\Videos\\sisisisikokokokokokokokoko\\reresusume\\codeid\\nnn\\EFCore\\QuizDay1\\QuizDay1\\QuizDay1.csproj": {
+    "D:\\bca\\udemy_microservice\\Microcro\\Astra-Quiz\\QuizDay1\\QuizDay1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User.LAPTOP-LJ8HT7OG\\Videos\\sisisisikokokokokokokokoko\\reresusume\\codeid\\nnn\\EFCore\\QuizDay1\\QuizDay1\\QuizDay1.csproj",
+        "projectUniqueName": "D:\\bca\\udemy_microservice\\Microcro\\Astra-Quiz\\QuizDay1\\QuizDay1.csproj",
         "projectName": "QuizDay1",
-        "projectPath": "C:\\Users\\User.LAPTOP-LJ8HT7OG\\Videos\\sisisisikokokokokokokokoko\\reresusume\\codeid\\nnn\\EFCore\\QuizDay1\\QuizDay1\\QuizDay1.csproj",
+        "projectPath": "D:\\bca\\udemy_microservice\\Microcro\\Astra-Quiz\\QuizDay1\\QuizDay1.csproj",
         "packagesPath": "C:\\Users\\User.LAPTOP-LJ8HT7OG\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User.LAPTOP-LJ8HT7OG\\Videos\\sisisisikokokokokokokokoko\\reresusume\\codeid\\nnn\\EFCore\\QuizDay1\\QuizDay1\\obj\\",
+        "outputPath": "D:\\bca\\udemy_microservice\\Microcro\\Astra-Quiz\\QuizDay1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User.LAPTOP-LJ8HT7OG\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

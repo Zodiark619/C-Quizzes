@@ -1,4 +1,46 @@
-﻿//Quiz 1.1 GuessNumber
+﻿
+
+//OOP
+//*************************
+
+using QuizDay1.OOP;
+
+Angkot angkot1 = new Angkot("D1234UM", "2015","ANGKOT",4_500,20);
+Angkot angkot2 = new Angkot("D1256UM", "2017", 23_500, 5);
+SUV suv1 = new SUV("D111X","2017",500_000,17);
+SUV suv2 = new SUV("J111X", "1017", 456_000, 231);
+
+ICar carInf = new CarImpl();
+var listCar = carInf.InitListCar(new Car[] { angkot1, angkot2, suv1, suv2 });
+var myCar = carInf.FindCarByNomor(listCar, "D111X");
+var listAngkot = carInf.FindCarByType(listCar,EnumCar.ANGKOT);
+var listSuv = carInf.FindCarByType(listCar, EnumCar.SUV);
+var totalRevenueAngkot = carInf.TotalPendapatan(listCar, EnumCar.ANGKOT);
+var totalRevenueSUV = carInf.TotalPendapatan(listCar, EnumCar.SUV);
+var totalRevenueAll = carInf.TotalPendapatan(listCar, EnumCar.ALL_CAR);
+
+/*Console.WriteLine(angkot1);
+Console.WriteLine(angkot2);
+Console.WriteLine(suv1);
+Console.WriteLine(suv2);*/
+Console.WriteLine(myCar);
+
+Console.WriteLine(totalRevenueAngkot);
+Console.WriteLine(totalRevenueSUV);
+Console.WriteLine(totalRevenueAll);
+
+
+
+Console.ReadLine();
+
+
+
+//**************************
+
+
+
+
+//Quiz 1.1 GuessNumber
 void GuessNumber()
 {
     void fufu(int result)
@@ -142,3 +184,7 @@ else
 {
     Console.WriteLine("String is not a palindrome");
 }
+
+
+
+

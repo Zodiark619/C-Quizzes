@@ -1,0 +1,16 @@
+D:\bca\udemy_microservice\Microcro\Astra-Quiz\OOP-ListPerson\bin\Debug\net5.0\OOP-ListPerson.exe
+D:\bca\udemy_microservice\Microcro\Astra-Quiz\OOP-ListPerson\bin\Debug\net5.0\OOP-ListPerson.deps.json
+D:\bca\udemy_microservice\Microcro\Astra-Quiz\OOP-ListPerson\bin\Debug\net5.0\OOP-ListPerson.runtimeconfig.json
+D:\bca\udemy_microservice\Microcro\Astra-Quiz\OOP-ListPerson\bin\Debug\net5.0\OOP-ListPerson.runtimeconfig.dev.json
+D:\bca\udemy_microservice\Microcro\Astra-Quiz\OOP-ListPerson\bin\Debug\net5.0\OOP-ListPerson.dll
+D:\bca\udemy_microservice\Microcro\Astra-Quiz\OOP-ListPerson\bin\Debug\net5.0\OOP-ListPerson.pdb
+D:\bca\udemy_microservice\Microcro\Astra-Quiz\OOP-ListPerson\obj\Debug\net5.0\OOP-ListPerson.csproj.AssemblyReference.cache
+D:\bca\udemy_microservice\Microcro\Astra-Quiz\OOP-ListPerson\obj\Debug\net5.0\OOP-ListPerson.GeneratedMSBuildEditorConfig.editorconfig
+D:\bca\udemy_microservice\Microcro\Astra-Quiz\OOP-ListPerson\obj\Debug\net5.0\OOP-ListPerson.AssemblyInfoInputs.cache
+D:\bca\udemy_microservice\Microcro\Astra-Quiz\OOP-ListPerson\obj\Debug\net5.0\OOP-ListPerson.AssemblyInfo.cs
+D:\bca\udemy_microservice\Microcro\Astra-Quiz\OOP-ListPerson\obj\Debug\net5.0\OOP-ListPerson.csproj.CoreCompileInputs.cache
+D:\bca\udemy_microservice\Microcro\Astra-Quiz\OOP-ListPerson\obj\Debug\net5.0\OOP-ListPerson.dll
+D:\bca\udemy_microservice\Microcro\Astra-Quiz\OOP-ListPerson\obj\Debug\net5.0\refint\OOP-ListPerson.dll
+D:\bca\udemy_microservice\Microcro\Astra-Quiz\OOP-ListPerson\obj\Debug\net5.0\OOP-ListPerson.pdb
+D:\bca\udemy_microservice\Microcro\Astra-Quiz\OOP-ListPerson\obj\Debug\net5.0\OOP-ListPerson.genruntimeconfig.cache
+D:\bca\udemy_microservice\Microcro\Astra-Quiz\OOP-ListPerson\obj\Debug\net5.0\ref\OOP-ListPerson.dll
