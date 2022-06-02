@@ -25,6 +25,18 @@ namespace OOP_ListPerson
                 //list containing seeded entities
               var list=repository.  InitListPerson(new Person[] { customer1, customer2, customer3, sales1, sales2, employee1, employee2 });
 
+            //display all entities
+            foreach(var i in list)
+            {
+                Console.WriteLine(i);
+            }
+            Console.WriteLine();
+            Console.WriteLine();
+
+            Console.WriteLine("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
+
+            Console.WriteLine();
+
             //Implementation 1: Total Basic Salary of all Person
             var basicSalary = repository.TotalBasicSalary(list);
             Console.WriteLine($"Total basic salary of all person: {basicSalary}");

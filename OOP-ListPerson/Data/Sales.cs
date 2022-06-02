@@ -24,7 +24,7 @@ namespace OOP_ListPerson.Data
 
         public override string ToString()
         {
-            return $"{base.ToString()} | Basic Salary:{this.BasicSalary} | Total Salary:{this.TotalSalary}";
+            return $"{base.ToString()} | Basic Salary:{this.BasicSalary} | Total Salary:{this.TotalSalary} | Bonus:{this.Bonus} | Commision:{this.Commision}";
         }
         public decimal Bonus { get => bonus; set => bonus = value; }
         public decimal Commision { get => commision; set => commision = value; }

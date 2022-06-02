@@ -23,7 +23,7 @@ namespace OOP_ListPerson.Data
 
         public override string ToString()
         {
-            return $"{base.ToString()} | Basic Salary:{this.BasicSalary} | Total Salary:{this.TotalSalary}";
+            return $"{base.ToString()} | Basic Salary:{this.BasicSalary} | Total Salary:{this.TotalSalary} | Transportation:{this.transportation} | LunchFee:{this.lunchFee}";
         }
 
         public decimal Transportation { get => transportation; set => transportation = value; }
